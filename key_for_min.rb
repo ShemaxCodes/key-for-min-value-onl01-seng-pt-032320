@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
 smallest_value = 0 
 name_hash.collect do |key, value| 
-  if value == key_with_smallest_value += 1 
+  if value == smallest_value += 1 
     puts
   end
 end
