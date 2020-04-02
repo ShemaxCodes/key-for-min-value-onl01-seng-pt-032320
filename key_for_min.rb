@@ -12,3 +12,6 @@ name_hash.collect do |key, value|
 end
 smallest_key
 end
+
+## At first I had line 8 switched. I'm not certain why it didn't work that way. I read the statement 
+the same way. 
