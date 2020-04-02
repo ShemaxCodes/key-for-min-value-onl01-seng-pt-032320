@@ -7,4 +7,3 @@ name_hash.collect do |key, value|
   if key == key_with_smallest_value += 1 
     puts key 
   end
-end
